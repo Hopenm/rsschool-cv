@@ -1,34 +1,34 @@
  # Nadezhda Manokhina
 
  ---
-Contacts
+#### Contacts
  
-+ Location: Miami, USA
-+ Phone: +1 850 8220807
-+ Email: manokhinann@gmail.com
-+ GitHub: Nadezhda Manokhina
+* Location: Miami, USA
+* Phone: +1 850 8220807
+* Email: manokhinann@gmail.com
+* GitHub: Nadezhda Manokhina
 
 ---
- About Me
+ ##### About Me
  
 I try to follow the world of web technologies and implement the most interesting of them in my work.
 I am studying JS for further work as a front-end developer.
  
  ---
- Skills
+ #### Skills
  
-+HTML
-+CSS
-+Git
- 
----
- Education
- 
-+ University:Komsomolsk-on-Amur State Technical, management
-+ CSS, HTML, Git video courses on YouTube channel Glo Academy
+* HTML
+* CSS
+* Git
  
 ---
-Language:
+ #### Education
  
-English level - A1
+* University:Komsomolsk-on-Amur State Technical, management
+* CSS, HTML, Git video courses on YouTube channel Glo Academy
+ 
+---
+#### Language:
+ 
+* English level - A1
  
