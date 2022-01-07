@@ -1,12 +1,12 @@
  Nadezhda Manokhina
  
----
+ ---
 Contacts
  
 + Location: Miami, USA
 + Phone: +1 850 8220807
 + Email: manokhinann@gmail.com
-
++ GitHub: Nadezhda Manokhina
 
 ---
  About Me
