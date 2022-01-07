@@ -6,6 +6,7 @@
 + Location: Miami, USA
 + Phone: +1 850 8220807
 + Email: manokhinann@gmail.com
+
 ---
 ####About Me
  
