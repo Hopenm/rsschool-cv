@@ -1,14 +1,18 @@
-# Nadezhda Manokhina
+ Nadezhda Manokhina  
+ 
+
 ---
+
 #### Contact 
 * Phone: +1 850 8220807
 * Email: manokhinann@gmail.com
-* GitHub: Nadezhda Manokhina
+* GitHub: Nadezhda Manokhina  
 ---
+
 #### About me
  
 I try to follow the world of web technologies and implement the most interesting of them in my work.
-I am studying JS for further work as a front-end developer.
+I am studying JS for further work as a front-end developer.  
 
 --- 
 #### Skills
@@ -19,7 +23,7 @@ I am studying JS for further work as a front-end developer.
 --- 
 #### Education
  
-* University:Komsomolsk-on-Amur State Technical, management
+* Rolling Scopes
 * CSS, HTML, Git video courses on YouTube channel Glo Academy
 --- 
 #### Language
